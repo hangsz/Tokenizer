@@ -11,6 +11,10 @@ import org.wltea.analyzer.cfg.DefaultConfig;
 import org.wltea.analyzer.core.IKSegmenter;
 import org.wltea.analyzer.core.Lexeme;
 
+/**
+ *@auther : hangsz
+ *@data : 2017-06-03
+ 
 public class Demo{
 	
 	public static void main(String[] args){
